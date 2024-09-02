@@ -1,7 +1,7 @@
 import logo from "../assets/g.png";
 import { FaEnvelope,FaLinkedin,FaHackerrank, FaGithub, FaInstagram } from "react-icons/fa";
 // import leetcodelogo from "../components/LeetCodeIcon";
-import leetcode from "../assets/LeetCode.png";
+import leetcode from "../assets/Leetcode.png";
 
 const NavBar = () => {
   return (
