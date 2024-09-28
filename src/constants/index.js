@@ -43,7 +43,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Xpace ` E-Commerce Website",
+    title: "E-Commerce Website",
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, CRUD operations, shopping cart .",
