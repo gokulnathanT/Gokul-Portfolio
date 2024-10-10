@@ -20,15 +20,15 @@ const Hero = () => {
                 variants={container(0)}
                 initial="hidden"
                 animate="visible"
-                className="pb-16 text-5xl font-thin tracking-tight lg:mt-16 lg:text-8xl">Gokulnathan Thanapal</motion.h1>
+                className="pb-16 text-5xl font-light tracking-tight lg:mt-16 lg:text-8xl">Gokulnathan Thanapal</motion.h1>
                 <motion.span  variants={container(0.5)}
                 initial="hidden"
                 animate="visible"
-                className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent"> Full Stack Developer</motion.span>
+                className="bg-gradient-to-r from-zinc-50 via-slate-500 to-slate-600 bg-clip-text text-3xl tracking-tight text-transparent"> Full Stack Developer</motion.span>
                 <motion.p  variants={container(1)}
                 initial="hidden"
                 animate="visible"
-                 className="my-2 max-w-xl py-6 font-light tracking-tighter text-justify">{HERO_CONTENT}</motion.p>
+                 className="my-2 max-w-xl py-6 font-light tracking-tighter text-justify"># {HERO_CONTENT}</motion.p>
             </div>
         </div>
         <div className="w-full lg:w-1/2 lg:p-8">

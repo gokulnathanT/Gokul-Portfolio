@@ -1,5 +1,5 @@
-import mypic from "../assets/pic 11.jpeg"
-import { ABOUT_TEXT } from "../constants"
+import mypic from "../assets/gokul_.jpg"
+import { ABOUT_TEXT, ABOUT_TEXT2 } from "../constants"
 import {motion} from "framer-motion";
 
 const About = () => {
@@ -24,8 +24,10 @@ const About = () => {
             transition={{duration:0.5}}
             
             className="w-full lg:w-1/2">
-                <div className="flex justify-center lg:justify-start">
-                    <p className="my-2 max-w-xl py-6 text-justify">{ABOUT_TEXT}</p>
+                <div className=" justify-center lg:justify-start">
+                    <p className="my-2 max-w-xl py-6 text-justify"># {ABOUT_TEXT}</p>
+                    <p className="my-2 max-w-xl py-6 text-justify"># {ABOUT_TEXT2}</p>
+
                 </div>
             </motion.div>
          </div>

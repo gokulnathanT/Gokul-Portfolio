@@ -8,7 +8,12 @@ JavaScript, and SQL, with a genuine interest in implementing and launching new p
 business requirements into technical solutions. Looking to start my career as an entry-level software engineer
 with a technology-driven firm.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile developer with a passion for creating efficient and user-friendly softwares. My journey  began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile developer with a passion for creating efficient and user-friendly softwares.
+ My journey  began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges.
+  I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. 
+`
+ export const ABOUT_TEXT2=`Outside of coding, I enjoy staying active,
+  I’m drawn to the art of photography, where I seek to capture the beauty of fleeting moments. Much like in software development, I find joy in focusing on the finer details to create something lasting.`;
 
 export const EXPERIENCES = [
   {
