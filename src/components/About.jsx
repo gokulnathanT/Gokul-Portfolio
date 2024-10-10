@@ -1,4 +1,4 @@
-import mypic from "../assets/gokul_.jpg"
+import mypic from "../assets/IMG_6122.JPG"
 import { ABOUT_TEXT, ABOUT_TEXT2 } from "../constants"
 import {motion} from "framer-motion";
 
