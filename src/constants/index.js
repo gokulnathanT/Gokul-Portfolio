@@ -69,7 +69,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React.js", "CSS", "Framer Motion"],
-    link:""
+    link:"https://gocool-dev.netlify.app/"
   },
   // {
   //   title: "Blogging Platform",

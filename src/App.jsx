@@ -9,6 +9,7 @@ import Contact from "./components/Contact";
 import SmoothScroll from 'smooth-scroll';
 import { Helmet } from "react-helmet-async";
 
+
 const App = () => {
   useEffect(() => {
     new SmoothScroll('a[href*="#"]', {
